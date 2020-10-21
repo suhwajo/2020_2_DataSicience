@@ -6,7 +6,7 @@
 ## 2nd week & 3rd week
 ### 1. Python and Numpy
 #### - [Python and Numpy study code](https://github.com/suhwajo/2020_2_DataSicience/blob/master/01_Numpy.ipynb)
-#### - [HW1]()
+#### - [HW1](https://github.com/suhwajo/2020_2_DataSicience/blob/master/2nd_week.ipynb)
 #
 #
 ## 4th week
